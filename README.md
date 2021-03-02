@@ -1,5 +1,5 @@
 # discord-js-bot
- just a way in which i am learning js ;-;
+ just a way in which i am learning js ;-;(don't ask me why)
 
 # what is this bot about?
   ¯\\\_(ツ)_/¯
