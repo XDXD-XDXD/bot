@@ -5,9 +5,6 @@ const { prefix, token } = require('./config.json');
 
 client.once('ready', () => {
 	console.log('Ready!');
-	let a = client.users.fetch(659047804622077953);
-	console.log(a);
-
 });
 
 client.on('message', message => {
