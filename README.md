@@ -7,4 +7,4 @@
  Instructions are [here](https://lmgtfy.app/?q=How+to+run+a+discord.js+bot)
 
 ## Contributing
- no need to do so
+ no
